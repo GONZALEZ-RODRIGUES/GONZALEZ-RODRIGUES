@@ -18,5 +18,5 @@
   
 </div>
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GONZALEZ-RODRIGUES&hide=contribs,prs)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GONZALEZ-RODRIGUES&theme=dracula)
 
