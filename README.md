@@ -11,6 +11,7 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
   <br>
 <div> 
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GONZALEZ-RODRIGUES&hide=contribs,prs)
 <br>
 
   <a href = "mailto:gonzalez.rodrigues@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
